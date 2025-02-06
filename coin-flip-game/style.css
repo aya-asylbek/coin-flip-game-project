@@ -1,11 +1,13 @@
 body {
-    background-color: rgb(18, 37, 247);
+    background-color: rgb(240, 253, 219);
 }
 
 h1 {
-    background-color: rgb(190, 192, 212); 
-    color: rgb(18, 37, 247); 
+    background-color: rgb(238, 235, 202); 
+    color: rgb(4, 4, 4); 
     padding: 10px;
     text-align: center;
 }
-
+img{
+    text-align: center;
+}
