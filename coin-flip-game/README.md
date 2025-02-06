@@ -4,6 +4,8 @@ Try your luck with the Kyrgyz Coin Flip Game!
 This simple game lets you flip a coin and test your luck. Inspired by the traditional coin toss, this project is a fun way to explore probability in a digital format.
 
 🔗 Play the game here: https://aya-asylbek.github.io/coin-flip-game-project/
+
+
 Features
 
 Instant coin flip results
