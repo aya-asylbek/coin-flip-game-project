@@ -5,9 +5,9 @@ This simple game lets you flip a coin and test your luck. Inspired by the tradit
 
 🔗 Play the game here: https://aya-asylbek.github.io/coin-flip-game-project/
 Features
-✅ Simple and interactive UI
-✅ Instant coin flip results
-✅ Built with HTML, CSS, and JavaScript
+
+Instant coin flip results
+Built with HTML, CSS, and JavaScript
 
 How to Play
 Click the Flip Coin button.
