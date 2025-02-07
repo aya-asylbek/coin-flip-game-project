@@ -14,7 +14,7 @@ Installation & Setup
 
 1 - Clone this repository:
 
-2 - git clone https://github.com/aya-asylbek/coin-flip-game-project
+2 - git clone https://aya-asylbek.github.io/coin-flip-game-project/
 
 3 - Navigate to the project folder:
 
