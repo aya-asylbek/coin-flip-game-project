@@ -1,24 +1,39 @@
 Kyrgyz Coin Flip Game
-Try your luck with the Kyrgyz Coin Flip Game!
 
-This simple game lets you flip a coin and test your luck. Inspired by the traditional coin toss, this project is a fun way to explore probability in a digital format.
+Description:
 
-🔗 Play the game here: https://aya-asylbek.github.io/coin-flip-game-project/
-
+This is a simple Kyrgyz Coin Flip Game where users can flip a coin by clicking a button and receive a random result of either heads or tails. The game is built using HTML, CSS, and JavaScript.
 
 Features
 
-Instant coin flip results
-Built with HTML, CSS, and JavaScript
+Interactive coin flip simulation.
+Randomized heads or tails result.
+Simple and responsive design.
 
-How to Play
-Click the Flip Coin button.
-Watch as the coin flips and lands on Heads or Tails.
-Try again and see if luck is on your side!
-Technologies Used:
-HTML
-CSS
-JavaScript
+Installation & Setup
 
+1 - Clone this repository:
 
-Feel free to contribute or share your feedback! 😊
+2 - git clone https://github.com/your-username/coin-flip-game.git
+
+3 - Navigate to the project folder:
+
+cd coin-flip-game
+
+4 - Open the index.html file in any modern web browser.(Chrome preferred)
+
+5 - Click the "Flip Coin" button.
+
+6 - The result (heads or tails) will be displayed on the screen.
+
+Dependencies
+
+This game only requires a web browser to run. No additional dependencies needed.
+
+Credits:
+
+Coin images sourced from: kazcoins.com (https://www.kazcoins.com/product/tamga-symbol-of-unity-of-kyrgyz-kaganat-10-som-kyrgyzstan-silver-coin-with-gold/)
+
+License
+
+This project is open-source and free to use. Feel free to modify and improve it!
